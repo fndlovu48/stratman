@@ -83,8 +83,8 @@
             <div class="card-body">
               
                 <div class="form-group">
-                    <label for="exampleFormControlInput1"></label>
-                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="enter opportunity 1">
+                    <label for="opportunity1"></label>
+                    <input type="text" class="form-control" name="opportunity1" id="opportunity1" placeholder="enter opportunity 1">
                   </div>
                   <div class="form-group">
                     <label for="exampleFormControlInput1"></label>
