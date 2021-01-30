@@ -51,24 +51,32 @@ class SwotsController extends Controller
       
       $swotStrength1->type =  'SWOT_Strength';
       $swotStrength1->body =  $request->input('strength1');
+      $swotStrength1->status =  'New';
 
       $swotStrength2->type =  'SWOT_Strength';
       $swotStrength2->body =  $request->input('strength2');
+      $swotStrength2->status =  'New';
 
       $swotStrength3->type =  'SWOT_Strength';
       $swotStrength3->body =  $request->input('strength3');
+      $swotStrength3->status =  'New';
 
       $swotStrength4->type = 'SWOT_Strength';
       $swotStrength4->body =  $request->input('strength4');
+      $swotStrength4->status =  'New';
 
       $swotWeakness1->type =  'SWOT_Weakness';
       $swotWeakness1->body =  $request->input('weakness1');
+      $swotWeakness1->status =  'New';
       $swotWeakness2->type =  'SWOT_Weakness';
       $swotWeakness2->body =  $request->input('weakness2');
+      $swotWeakness2->status =  'New';
       $swotWeakness3->type =  'SWOT_Weakness';
       $swotWeakness3->body =  $request->input('weakness3');
+      $swotWeakness3->status =  'New';
       $swotWeakness4->type =  'SWOT_Weakness';
       $swotWeakness4->body =  $request->input('weakness4');
+      $swotWeakness4->status =  'New';
 
       // set  strength
 
