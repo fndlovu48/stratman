@@ -14,7 +14,7 @@
           <div class="card-header" id="headingOne">
             <h2 class="mb-0">
               <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                STRENGHTS  (List here anything you can think of that makes your organization amazing!  What can you rely on to deliver your services?)
+                STRENGHTS  (Ling you can think of that makes your organization amazing!  What can you rely on to deliver your services?)
               </button>
             </h2>
           </div>
